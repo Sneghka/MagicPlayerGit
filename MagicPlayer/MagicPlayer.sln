@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicPlayer", "MagicPlayer\MagicPlayer.csproj", "{FEBCE4BF-B705-42C6-8CA5-DFF7976F555F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{7AB374B1-2C2F-4EF4-95AE-922E1704C6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{CFB7325D-8440-469B-A7C3-24BD1DF9E49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBCE4BF-B705-42C6-8CA5-DFF7976F555F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBCE4BF-B705-42C6-8CA5-DFF7976F555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBCE4BF-B705-42C6-8CA5-DFF7976F555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBCE4BF-B705-42C6-8CA5-DFF7976F555F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB374B1-2C2F-4EF4-95AE-922E1704C6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB374B1-2C2F-4EF4-95AE-922E1704C6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB374B1-2C2F-4EF4-95AE-922E1704C6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB374B1-2C2F-4EF4-95AE-922E1704C6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB7325D-8440-469B-A7C3-24BD1DF9E49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB7325D-8440-469B-A7C3-24BD1DF9E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB7325D-8440-469B-A7C3-24BD1DF9E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB7325D-8440-469B-A7C3-24BD1DF9E49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
