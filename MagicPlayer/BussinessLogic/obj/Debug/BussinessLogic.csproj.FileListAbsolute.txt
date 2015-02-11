@@ -1,0 +1,5 @@
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\BussinessLogic\bin\Debug\BussinessLogic.dll
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\BussinessLogic\obj\Debug\BussinessLogic.dll
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\BussinessLogic\obj\Debug\BussinessLogic.pdb

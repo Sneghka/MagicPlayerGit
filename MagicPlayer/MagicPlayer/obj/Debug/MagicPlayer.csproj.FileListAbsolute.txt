@@ -1,0 +1,8 @@
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\bin\Debug\MagicPlayer.exe.config
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\bin\Debug\MagicPlayer.exe
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\bin\Debug\MagicPlayer.pdb
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\bin\Debug\BussinessLogic.dll
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\bin\Debug\BussinessLogic.pdb
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\obj\Debug\MagicPlayer.csprojResolveAssemblyReference.cache
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\obj\Debug\MagicPlayer.exe
+D:\Sneghka\Visual Studio\MagicPlayerGit\MagicPlayer\MagicPlayer\obj\Debug\MagicPlayer.pdb

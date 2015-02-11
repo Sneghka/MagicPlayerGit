@@ -17,7 +17,7 @@ namespace UnitTests
             var input = "10C";
             var card = new Card(input);
             var output = card.Name;
-            Assert.AreEqual(Card.Suit.Clubs, output);
+            Assert.AreEqual(Suit.Clubs, output);
         }
 
         [Test]
@@ -26,7 +26,7 @@ namespace UnitTests
             var input = "JC";
             var card = new Card(input);
             var output = card.Value;
-            Assert.AreEqual(Card.Strength._J, output);
+            Assert.AreEqual(Strength._J, output);
         }
 
         [Test]
@@ -35,7 +35,7 @@ namespace UnitTests
             var input = "2C";
             var card = new Card(input);
             var output = card.Value;
-            Assert.AreEqual(Card.Strength._2, output);
+            Assert.AreEqual(Strength._2, output);
         }
 
         [Test]
@@ -43,7 +43,7 @@ namespace UnitTests
         {
             var input = "5C";
             var card = new Card(input);
-            var output = card.Fo;
+            var output = card.GetHCPForCard();
             Assert.AreEqual(0, output);
         }
         [Test]
@@ -51,7 +51,7 @@ namespace UnitTests
         {
             var input = "AC";
             var card = new Card(input);
-            var output = card.Fo;
+            var output = card.GetHCPForCard();
             Assert.AreEqual(4, output);
         }
     }
