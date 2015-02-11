@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace BussinessLogic
 {
-    public class SetOfCards
+    public class Hand
     {
         private List<Card> cards = new List<Card>();
         public List<Card> Cards { get { return cards; } }
 
-        public SetOfCards(string line)
+        public Hand(string line)
         {
             var lines = line.Split(' ');
             foreach (var str in lines)
@@ -23,22 +23,22 @@ namespace BussinessLogic
             }
         }
 
-        public List<int> GetDistribution()
-        {
-            var getDistribution = new List<int>();
-            foreach (Suit suit in Enum.GetValues(typeof(Suit)))
-            {
-                int i = 0;
-                foreach (var card in Cards)
-                {
-                    if (card.Name == suit) i++;
+        //public List<int> GetDistribution()
+        //{
+        //    var getDistribution = new List<int>();
+        //    foreach (Suit suit in Enum.GetValues(typeof(Suit)))
+        //    {
+        //        int i = 0;
+        //        foreach (var card in Cards)
+        //        {
+        //            if (card.Name == suit) i++;
 
-                }
-                getDistribution.Add(i);
-            }
-            getDistribution.Sort();
-            return getDistribution;
-        }
+        //        }
+        //        getDistribution.Add(i);
+        //    }
+        //    getDistribution.Sort();
+        //    return getDistribution;
+        //}
 
 
         public int GetHCPSetOfCards()

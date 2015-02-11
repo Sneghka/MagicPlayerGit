@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="UnitTestsForCard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTestsForDistribution.cs" />
     <Compile Include="UnitTestsForSetOfCards.cs" />
   </ItemGroup>
   <ItemGroup>
